@@ -5,7 +5,7 @@ dd = "hello i am jayshree.hello again from my side."
 ee = "0133a4353312"
 ff = "10390"
 
-
+#####---------------- EVERY string function returns a NEW string ---doesnt modify the existing string as STRING in Python are immutable (cant update or change)
 
 #identifying length of a string
 v1 = len(aa)
