@@ -3,8 +3,8 @@
 #----Note : list are mutable(modifyable) -- hence we can do all the mentioned things on fruits itself 
 # (unlike strings that generates new strings after every method/operation/function on them)
 
-fruits = []
-print(type(fruits))   #this is an empty list
+fruits = []   #this is an empty list
+print(type(fruits))   
 
 fruits = ["apple","banana","mango",-1.34,False,"grapes","watermelon"]
 print(f"Original List : {fruits}")

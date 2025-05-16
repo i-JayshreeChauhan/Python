@@ -1,5 +1,5 @@
 
-l1=[]  #empty tuple
+l1=[]  #empty list
 
 for i in range(7):
 

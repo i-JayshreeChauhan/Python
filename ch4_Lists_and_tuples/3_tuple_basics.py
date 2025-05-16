@@ -9,10 +9,10 @@ jj=(1)
 print(type(jj))   #it will show <class 'int'>
 
 jj=(1,)
-print(type(jj))   #it will show <class 'tuplet'>
+print(type(jj))   #it will show <class 'tuple'>
 
-jj=()
-print(type(jj))   #it will show <class 'tuplet'>   #this is an empty tuple
+jj=()   #this is an empty tuple
+print(type(jj))   #it will show <class 'tuplet'>   
 
 
 #fruits[0] = 123  #---cant do ---will generate an error as tuples are immutable
