@@ -65,9 +65,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-If you have any questions, feel free to reach out at jayshree.chauhan7397@gmail.com .
+If you have any questions, feel free to reach out at jayshree.chauhan7397@gmail.com.
 
----
 
 ## Happy coding! 🐍🚀
 
